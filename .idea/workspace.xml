@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f1f01ab-869e-428e-a8c2-4b5334740b85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kBt9orsAKYQIB6DR9I7GhDrwFh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build SimpleTest.go Member.go">
+    <configuration name="1111" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/SimpleTest.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build PaxosTest/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build PaxosTest/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build SimpleTest.go Member.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/SimpleTest.go|$PROJECT_DIR$/Member.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build SimpleTest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/SimpleTest.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build client.go main.go service.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client.go|$PROJECT_DIR$/main.go|$PROJECT_DIR$/service.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="PaxosTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build client.go main.go service.go" />
+      <item itemvalue="Go Build.1111" />
+      <item itemvalue="Go Build.go build SimpleTest.go" />
+      <item itemvalue="Go Build.go build SimpleTest.go Member.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build SimpleTest.go Member.go" />
+        <item itemvalue="Go Build.1111" />
+        <item itemvalue="Go Build.go build SimpleTest.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build client.go main.go service.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="189" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606200683664">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state x="360" y="189" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1009@0.23.1792.1009" timestamp="1606200683664" />
+    <state width="1750" height="274" key="GridCell.Tab.0.bottom" timestamp="1606225890190">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="274" key="GridCell.Tab.0.bottom/0.23.1792.1009@0.23.1792.1009" timestamp="1606225890190" />
+    <state width="1750" height="274" key="GridCell.Tab.0.bottom/0.23.1792.1012@0.23.1792.1012" timestamp="1605192610927" />
+    <state width="1750" height="274" key="GridCell.Tab.0.center" timestamp="1606225890189">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="274" key="GridCell.Tab.0.center/0.23.1792.1009@0.23.1792.1009" timestamp="1606225890189" />
+    <state width="1750" height="274" key="GridCell.Tab.0.center/0.23.1792.1012@0.23.1792.1012" timestamp="1605192610927" />
+    <state width="1750" height="274" key="GridCell.Tab.0.left" timestamp="1606225890189">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="274" key="GridCell.Tab.0.left/0.23.1792.1009@0.23.1792.1009" timestamp="1606225890189" />
+    <state width="1750" height="274" key="GridCell.Tab.0.left/0.23.1792.1012@0.23.1792.1012" timestamp="1605192610927" />
+    <state width="1750" height="274" key="GridCell.Tab.0.right" timestamp="1606225890190">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="274" key="GridCell.Tab.0.right/0.23.1792.1009@0.23.1792.1009" timestamp="1606225890190" />
+    <state width="1750" height="274" key="GridCell.Tab.0.right/0.23.1792.1012@0.23.1792.1012" timestamp="1605192610927" />
+    <state width="1750" height="338" key="GridCell.Tab.1.bottom" timestamp="1606220754159">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="338" key="GridCell.Tab.1.bottom/0.23.1792.1009@0.23.1792.1009" timestamp="1606220754159" />
+    <state width="1750" height="338" key="GridCell.Tab.1.center" timestamp="1606220754158">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="338" key="GridCell.Tab.1.center/0.23.1792.1009@0.23.1792.1009" timestamp="1606220754158" />
+    <state width="1750" height="338" key="GridCell.Tab.1.left" timestamp="1606220754158">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="338" key="GridCell.Tab.1.left/0.23.1792.1009@0.23.1792.1009" timestamp="1606220754158" />
+    <state width="1750" height="338" key="GridCell.Tab.1.right" timestamp="1606220754159">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state width="1750" height="338" key="GridCell.Tab.1.right/0.23.1792.1009@0.23.1792.1009" timestamp="1606220754159" />
+    <state x="397" y="166" key="SettingsEditor" timestamp="1605185882435">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state x="397" y="166" key="SettingsEditor/0.23.1792.1009@0.23.1792.1009" timestamp="1605185882435" />
+    <state x="561" y="246" width="670" height="676" key="search.everywhere.popup" timestamp="1606224308846">
+      <screen x="0" y="23" width="1792" height="1009" />
+    </state>
+    <state x="561" y="246" width="670" height="676" key="search.everywhere.popup/0.23.1792.1009@0.23.1792.1009" timestamp="1606224308846" />
+  </component>
+</project>
